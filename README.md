@@ -1,6 +1,6 @@
 # npmtest-redux-simple-router
 
-#### test coverage for  [redux-simple-router (v2.0.4)](https://github.com/rackt/redux-simple-router#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-redux-simple-router.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-redux-simple-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-redux-simple-router.svg)](https://travis-ci.org/npmtest/node-npmtest-redux-simple-router)
+#### basic test coverage for  [redux-simple-router (v2.0.4)](https://github.com/rackt/redux-simple-router#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-redux-simple-router.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-redux-simple-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-redux-simple-router.svg)](https://travis-ci.org/npmtest/node-npmtest-redux-simple-router)
 
 #### Ruthlessly simple bindings to keep react-router and redux in sync
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-redux-simple-router/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-redux-simple-router/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-redux-simple-router/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-redux-simple-router/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-redux-simple-router/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-redux-simple-router/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-redux-simple-router/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-redux-simple-router/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-redux-simple-router/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-redux-simple-router/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-redux-simple-router/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-redux-simple-router/build/coverage.html/index.html)
 
@@ -125,7 +125,8 @@
         "react",
         "redux"
     ],
-    "version": "2.0.4"
+    "version": "2.0.4",
+    "bin": {}
 }
 ```
 
